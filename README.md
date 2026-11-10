@@ -81,7 +81,6 @@ Desenvolvimento de uma aplicação com site público, portal do cliente e painel
 
 **Estágio:** aplicação de demonstração com persistência no servidor; pagamentos e assinatura permanecem demonstrativos.
 
-[🌐 Conhecer a aplicação](https://intensa-eventos-demonstracao.vercel.app/)
 
 ### 🔹 MiniVale — desenvolvimento colaborativo de jogo
 
@@ -176,7 +175,6 @@ A web application with a public website, customer portal and administrative dash
 
 **Stage:** demonstration application with server-side persistence; payments and signatures remain demonstrative.
 
-[🌐 Explore the application](https://intensa-eventos-demonstracao.vercel.app/)
 
 ### 🔹 MiniVale — collaborative game development
 
